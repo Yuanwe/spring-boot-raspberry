@@ -90,3 +90,10 @@ fabric.properties
 # Editor-based Rest Client
 .idea/httpRequests
 
+.idea/encodings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/spring-boot-raspberry.iml
+.idea/compiler.xml
+.idea/inspectionProfiles/
+.idea/vcs.xml
